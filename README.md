@@ -39,6 +39,4 @@
   </a>
 </div>
 
-![Luis Higino's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHigino&show_icons=true&theme=transparent&rank_icon=github&locale=pt-br)
-
 ###
